@@ -10,7 +10,7 @@ assignees: vuongdh, ongtrieuhau, nghivanbi, le-an-87, chauthanhtra, hvtuan1987, 
 
 <div align="center">
 
-`Công ty TNHH Giải Pháp Kỹ Thuật Số DH - Biên bản họp tuần
+`Công ty TNHH Giải Pháp Kỹ Thuật Số DH
 
 </div>
 
